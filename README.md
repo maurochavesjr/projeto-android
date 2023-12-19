@@ -1,5 +1,7 @@
 # Projeto Android
 
+<img src="Capturar.PNG" alt="Exemplo imagem">
+
 > Projeto criado durante o curso de HTML e CSS do Curso em Vídeo. O objetivo do projeto é de construirmos uma landing page que conta a história e origem do sistema operacional Android.
 
 ### Ajustes e melhorias
